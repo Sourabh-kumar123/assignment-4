@@ -1,0 +1,81 @@
+ANSWER 1:-
+it is empty list in whih we can perform function append ,pop,extend many list function as welll.
+
+ANSWER 2:-
+spam=[2,4,6,8,10]
+spam.insert(2,'hello')
+print(spam)
+
+ANSWER 3:-
+The value of spam is 3.
+
+ANSWER 4:-
+it is telling whatever the value present inside spam it will give the value of last index -1 return last element.
+
+ANSWER 5:-
+spam[:2] - it is telling that it will return the value starting from index 0 and goes upto 1 means one number bedore 2.
+
+ANSWER 6:-
+bacon.index("cat") means it is searching for the index value for the element cat.
+
+ANSWEER 7:-
+bacon.append(99) means it will add 99 to bacon list at last index number.
+
+ANSWER 8:-
+bacon.remove ("cat") means it will delete or remove cat from the list means there will be no longer cat name inside bacon list.
+
+ANSWER 9:-
+concatenation of list means adding of two list
+list1 = [1, 2, 3]
+list2 = [4, 5, 6]
+concatenated_list = list1 + list2
+print(concatenated_list)
+
+replication of list means multiplying of list
+list1 = [1, 2, 3]
+replicated_list = list1 * 3
+print(replicated_list)
+
+ANSWER 10:-
+appends means adding a particular element at the last index number of a list
+insert means putting or inserting a particular element in between of the element .it take two argument one index number
+ and the second is value to be inserted
+
+ANSWER 11:-
+two method of removing element from a list is -
+list.pop()-takes index number as a parameter
+list.remove()-takes element name as a parameter
+
+ANSWER 12:-
+list value and string values are indentical in their len and slicing operator function .
+well they both have their own differnt method and fucntion to perform on a particular variable.
+
+ANSWER 13:-
+list in python is orederd colllection of items.it is mutubale and denoted by square bracket and can contan  values of different data types.
+where as tuple is similiar to list but it is immutubale and denoted by round bracket
+
+ANSWER 14:-
+representation of tuple value-
+a=(14,) 
+ 
+ANSWER 15:-
+a=(1,9)
+b=[1,9]
+print(list(a)) - conversion of tuple to list
+print(tuple(b))- conversion of list to tuple
+
+ANSWER 16:-
+it is not necessary for list to have a square bracket or something else later on we can alsomodified into list by list constructor
+like-
+a=(1,2,3)
+b =list(a)
+print(b)
+
+ANSWER 17:-
+In normal list shalllow copy and deep copy are same but when we talk about nested list in shallow list
+ when we copy original list in variable and made some changes then orginal list also get changed
+but in deep copy if we made some changes in variable that contain original list then no changes wil happen to original list
+
+
+
+
